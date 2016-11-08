@@ -1,0 +1,19 @@
+{
+  "name": "estimator_srv",
+  "version": "0.0.1",
+  "description": "Estimator backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apstrand/estimator.git"
+  },
+  "author": "Peter Strand <peter@nena.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apstrand/estimator/issues"
+  },
+  "homepage": "https://github.com/apstrand/estimator#readme"
+}
